@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-12ea767de94f797d515558da71de6abc72db2550.jar" />
+    </item>
+    <item
+        jar="C:\Users\morellib\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-931121d4f33a39b97c9cb24a2762190716dc1e50.jar" />
+    </item>
+    <item
+        jar="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-f045210c1a876b6744590a87eb3fe2cabeab310c.jar" />
+    </item>
+    <item
+        jar="C:\Users\morellib\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-ba5158487a9e2f583387184e3c34e79d5838c672.jar" />
+    </item>
+    <item
+        jar="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-2ef0bfbd75a58abdf367bc13d3ff6bcf1f97ec07.jar" />
+    </item>
+    <item
+        jar="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-331f2656cc1f7eac952f08f46d8ff3904c482017.jar" />
+    </item>
+    <item
+        jar="C:\Users\morellib\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\morellib\AndroidStudioProjects\InstaStarter\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0-29920879322db8a11c9406bde40c0512f3b7aaf1.jar" />
+    </item>
+
+</items>
